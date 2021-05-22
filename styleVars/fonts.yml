@@ -1,0 +1,24 @@
+alphaXS:
+  font-family: "Alpha Echo"
+  font-size: "1.8rem"
+alphaS:
+  font-family: "Alpha Echo"
+  font-size: "2rem"
+alphaM:
+  font-family: "Alpha Echo"
+  font-size: "4.8rem"
+alphaL:
+  font-family: "Alpha Echo"
+  font-size: "6rem"
+alphaXL:
+  font-family: "Alpha Echo"
+  font-size: "7rem"
+helNeS:
+  font-family: "HelveticaNeue"
+  font-size: "1.3rem"
+helNeL:
+  font-family: "HelveticaNeue"
+  font-size: "3rem"
+helV:
+  font-family: "Helvetica"
+  font-size: "1.6rem"
